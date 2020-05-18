@@ -6,7 +6,7 @@ REQ
 2. expo-cli
 
 BULDING
-1. git clone https://github.com/malFuckingFurion/react-native-firebase-auth.git
+1. git clone https://github.com/SeoBG/react-native-expo-firebase-auth.git
 2. cd project-name
 3. npm install
 4. expo start
